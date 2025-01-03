@@ -123,6 +123,7 @@
     <Compile Include="Assets\2DGamekit\Scripts\Utility\AutoCameraSetup.cs" />
     <Compile Include="Assets\2DGamekit\Scripts\Core\ObjectPool.cs" />
     <Compile Include="Assets\2DGamekit\Scripts\Utility\VisibleBubbleUp.cs" />
+    <Compile Include="Assets\Scripts\SpringPhysics.cs" />
     <Compile Include="Assets\2DGamekit\Utilities\DefaultPlayables\ScreenFader\ScreenFaderBehaviour.cs" />
     <Compile Include="Assets\CharacterEditorPackage\Code\AbilityModules\WallSlidingModule.cs" />
     <Compile Include="Assets\2DGamekit\Scripts\Objects\ObjectPositionResetter.cs" />
@@ -249,8 +250,8 @@
     <Compile Include="Assets\2DGamekit\Scripts\Core\TimedDisabling.cs" />
     <Compile Include="Assets\2DGamekit\Scripts\Utility\DialogueCanvasController.cs" />
     <Compile Include="Assets\CharacterEditorPackage\Code\Game\DemoObjects\2.5DDemo\WorldTurnPoint.cs" />
-    <Compile Include="Assets\2DGamekit\Utilities\DefaultPlayables\LightControl\LightControlClip.cs" />
     <Compile Include="Assets\Scripts\GameManager.cs" />
+    <Compile Include="Assets\2DGamekit\Utilities\DefaultPlayables\LightControl\LightControlClip.cs" />
     <Compile Include="Assets\CharacterEditorPackage\Code\AbilityModules\WallStickModule.cs" />
     <Compile Include="Assets\2DGamekit\Scripts\Character\StateMachineBehaviours\Player\AirborneWithGunSMB.cs" />
     <Compile Include="Assets\2DGamekit\Scripts\UI\KeyUI.cs" />

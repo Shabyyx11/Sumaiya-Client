@@ -656,6 +656,7 @@
 "Assets/Scripts/RainManager.cs"
 "Assets/Scripts/ShooperManager.cs"
 "Assets/Scripts/SlayernAimations.cs"
+"Assets/Scripts/SpringPhysics.cs"
 "Assets/TutorialInfo/Scripts/Readme.cs"
 -langversion:9.0
 
